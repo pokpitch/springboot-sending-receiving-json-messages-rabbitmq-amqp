@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: json-amqp-rabbitmq
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: uknowwhoiam
+    password: th1sisMypaSsw0rd
+
+server:
+  port: 8099
